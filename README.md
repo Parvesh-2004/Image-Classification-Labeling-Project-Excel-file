@@ -1,4 +1,4 @@
-# Image-Classification-Labeling-Project-Excel-file
+# Image-Classification-Labeling-Project
 Manually labeled images into categories like Dog, Cat, Car, and Bike using annotation tools. Saved annotations in Excel format for model training use. Improved skills in image recognition, attention to detail, and data labeling.
 
 import pandas as pd
